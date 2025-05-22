@@ -1,5 +1,7 @@
 UTS samsan penambahan komentar
 
+catatan setelah masuk ke dalam halaman ini "http://localhost:8080" terus ubah menjadi "http://localhost:8080/tugas" biar masuk ke halaman utama (ToT)
+
 #Halaman utama
 ![image](https://github.com/user-attachments/assets/7b6ce4a0-a5a8-44d7-997c-d3d47d600392)
 
